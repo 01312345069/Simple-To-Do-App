@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Exercise",
+        "done": false
+    },
+    {
+        "name": "Breakfast",
+        "done": true
+    },
+    {
+        "name": "Sleep",
+        "done": true
+    },
+    {
+        "name": "Study",
+        "done": false
+    },
+    {
+        "name": "Shopping",
+        "done": false
+    }
+]
